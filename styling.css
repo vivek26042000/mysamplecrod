@@ -1,0 +1,30 @@
+.main_head{
+	color: white;
+	background-color: #00000061;
+}
+.table_head{
+	color: #438643;
+	font-weight: bold;
+	font-size: 25px;
+}
+.table_border{
+	border-width: 2px;	
+}
+.table_align{
+	margin-left: auto;
+	margin-right: auto;
+}
+.btn{
+	border-radius: 8px;
+	height: 35px;
+	width: 140px;
+	background-color: blue;
+	color: white;
+	border-width: 0px;
+	font-family: "Roboto";
+	font-weight: bold;
+}
+td{
+	font-size: 18px;
+	
+}
